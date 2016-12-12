@@ -31,6 +31,7 @@ public class BusinessCardParser {
 
    /**
     * Constructor. Allows the user to specify custom extractor classes.
+    * 
     * @param nameExtractor instance of class implementing ITextExtractor to perform
     * extraction of the person's name. Set this to null to use the default
     * @param phoneNumberExtractor instance of class implementing ITextExtractor 
