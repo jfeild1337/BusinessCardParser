@@ -1,0 +1,240 @@
+<dataEntries>
+	<dataEntry>
+		<inputData>
+SYMM3TRY LTD
+Mike Smith
+Lead Systems Engineer
+(410)555-1234
+msmith@symm3try.com
+		</inputData>
+		<expectedEmail>msmith@symm3try.com</expectedEmail>
+		<expectedPhone>4105551234</expectedPhone>
+		<expectedName>Mike Smith</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+		SYMM3TRY LTD
+		Mike Smithy
+		Lead Systems Engineer
+		(410)555-1235
+		msmithy@symm3try.com
+		</inputData>
+		<expectedEmail>msmithy@symm3try.com</expectedEmail>
+		<expectedPhone>4105551235</expectedPhone>
+		<expectedName>Mike Smithy</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+DataPower Inc.
+Principal Domain Specialist
+Lisa Haung
+1234 Sentinel Road
+Columbia, MD 12345
+Fax: 410-555-4321
+Phone: 410-555-1234
+Email: lisa.haung@datapowerinc.com
+		</inputData>
+		<expectedEmail>lisa.haung@datapowerinc.com</expectedEmail>
+		<expectedPhone>4105551234</expectedPhone>
+		<expectedName>Lisa Haung</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+		DataPower Inc.
+		Principal Domain Specialist
+		Sara Smith
+		1234 Sentinel Road
+		Columbia, MD 12345
+		Fax: 410-555-4321
+		Phone: 443-555-9898
+		Email: sara.smith2@datapowerinc.com
+		</inputData>
+		<expectedEmail>sara.smith2@datapowerinc.com</expectedEmail>
+		<expectedPhone>4435559898</expectedPhone>
+		<expectedName>Sara Smith</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+John D. Jenkins
+Software Engineer
+Strategic Action Division
+Incompetent Experts
+31 North 31st Street
+Suite 551
+Arlington, VA 22209		
+Fax: +1 (703) 555-1200
+Tel: +1 (703) 555-1259
+jdjenkins@incompetent.com
+		</inputData>
+		<expectedEmail>jdjenkins@incompetent.com</expectedEmail>
+		<expectedPhone>17035551259</expectedPhone>
+		<expectedName>John D. Jenkins</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+		Jon D. Jenkins
+		Software Engineer
+		Strategic Action Division
+		Incompetent Experts
+		31 North 31st Street
+		Suite 551
+		Arlington, VA 22209		
+		Fax: +1 (703) 555-1300
+		Tel: +1 (703) 555-1359
+		jdjenkins2@incompetent.com
+		</inputData>
+		<expectedEmail>jdjenkins2@incompetent.com</expectedEmail>
+		<expectedPhone>17035551359</expectedPhone>
+		<expectedName>Jon D. Jenkins</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+Kathy McKenzie
+Meowser Corp
+931 Kennel Way		
+McLean, VA 22101		
+703-555-1339 (C)
+703-555-1337 (P)
+703-555-1336 (F)
+mckenzie.kathy@meowser-corp.net
+		</inputData>
+		<expectedEmail>mckenzie.kathy@meowser-corp.net</expectedEmail>
+		<expectedPhone>7035551337</expectedPhone>
+		<expectedName>Kathy McKenzie</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+Kathy McKenzie
+Meowser Corp
+931 Kennel Way		
+McLean, VA 22101
+F: 703-555-1666
+P: 703-555-1667
+C: 703-555-1669 		
+mckenzie.kathy@meowser-corp.net
+		</inputData>
+		<expectedEmail>mckenzie.kathy@meowser-corp.net</expectedEmail>
+		<expectedPhone>7035551667</expectedPhone>
+		<expectedName>Kathy McKenzie</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+		Jack Hewitt
+		Meritorious Inc
+		1337 Trollface Drive		
+		Trollshire, AK 13371
+		F: +1 (410) 555-1337
+		P: +1 (410) 555-1665
+		C: +1 (410) 555-1024 		
+		jack.hewitt@meritorious-inc.com
+		</inputData>
+		<expectedEmail>jack.hewitt@meritorious-inc.com</expectedEmail>
+		<expectedPhone>14105551665</expectedPhone>
+		<expectedName>Jack Hewitt</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+Jack Hewitt
+Meritorious Inc
+1337 Trollface Drive		
+Trollshire, AK 13371
+C: +1 (410) 555-2024
+F: +1 (410) 555-2337
+P: +1 (410) 555-2665 		
+jack.hewitt@meritorious-inc.com
+		</inputData>
+		<expectedEmail>jack.hewitt@meritorious-inc.com</expectedEmail>
+		<expectedPhone>14105552665</expectedPhone>
+		<expectedName>Jack Hewitt</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+Jack Hewitt
+Meritorious Inc
+1337 Trollface Drive		
+Trollshire, AK 13371
++1 (410) 555-3024 (C)
++1 (410) 555-3337 (F)
++1 (410) 555-3665 (P)	
+jack.hewitt@meritorious-inc.com
+		</inputData>
+		<expectedEmail>jack.hewitt@meritorious-inc.com</expectedEmail>
+		<expectedPhone>14105553665</expectedPhone>
+		<expectedName>Jack Hewitt</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+Jack Hewitt
+Meritorious Inc
+1337 Trollface Drive		
+Trollshire, AK 13371
+(C) +1 (410) 555-4024
+(F) +1 (410) 555-4337
+(P) +1 (410) 555-4665 		
+jack.hewitt@meritorious-inc.com
+		</inputData>
+		<expectedEmail>jack.hewitt@meritorious-inc.com</expectedEmail>
+		<expectedPhone>14105554665</expectedPhone>
+		<expectedName>Jack Hewitt</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+		Jack Hewitt
+		Meritorious Inc
+		1337 Trollface Drive		
+		Trollshire, AK 13371
+		+1 (410) 555-5024 (C)
+		+1 (410) 555-5337 (F)
+		+1 (410) 555-5665 (P)	
+		jack.hewitt@meritorious-inc.com
+		</inputData>
+		<expectedEmail>jack.hewitt@meritorious-inc.com</expectedEmail>
+		<expectedPhone>14105555665</expectedPhone>
+		<expectedName>Jack Hewitt</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+		Jack Hewitt
+		Meritorious Inc
+		1337 Trollface Drive		
+		Trollshire, AK 13371
+		(C) +1 (410) 555-6024
+		(F) +1 (410) 555-6337
+		(P) +1 (410) 555-6665 		
+		jack.hewitt@meritorious-inc.com
+		</inputData>
+		<expectedEmail>jack.hewitt@meritorious-inc.com</expectedEmail>
+		<expectedPhone>14105556665</expectedPhone>
+		<expectedName>Jack Hewitt</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+		Jack Hewitt
+		Meritorious Inc
+		1337 Trollface Drive		
+		Trollshire, AK 13371
+		Phone: (410) 555-7024
+		(F) +1 (410) 555-7337
+		(C) +1 (410) 555-7665 		
+		jack.hewitt@meritorious-inc.com
+		</inputData>
+		<expectedEmail>jack.hewitt@meritorious-inc.com</expectedEmail>
+		<expectedPhone>4105557024</expectedPhone>
+		<expectedName>Jack Hewitt</expectedName>
+	</dataEntry>
+	<dataEntry>
+		<inputData>
+Jack Hewitt
+Meritorious Inc
+1337 Trollface Drive		
+Trollshire, AK 13371
+P: (410) 555-7025
+(F) +1 (410) 555-7337
+(C) +1 (410) 555-7665 		
+jack.hewitt@meritorious-inc.com
+		</inputData>
+		<expectedEmail>jack.hewitt@meritorious-inc.com</expectedEmail>
+		<expectedPhone>4105557025</expectedPhone>
+		<expectedName>Jack Hewitt</expectedName>
+	</dataEntry>
+</dataEntries>
